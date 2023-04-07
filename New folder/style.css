@@ -1,0 +1,59 @@
+body{
+    background-image:url("imag.jpg");
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+.main1{
+    display: flex;
+  align-items: center;
+  justify-content: center
+}
+.image1{
+    max-width: 100%;
+    max-height:100%;
+    }
+.first{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.main3{
+    display: flex;
+  align-items: center;
+  justify-content: center
+}
+.image3{
+    max-width: 100%;
+    max-height:100%;
+    }
+.third{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.main5{
+    display: flex;
+  align-items: center;
+  justify-content: center
+}
+.image5{
+    max-width: 100%;
+    max-height:100%;
+    }
+.fifth{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.edit1{
+    color:rgb(87, 21, 21)
+}
+.edit2{
+    color:rgb(161, 192, 22)
+}
+.edit3{
+    color:rgb(167, 17, 104)
+}
+.edit4{
+    color:rgb(138, 26, 26)
+}
+.edit5{
+    color:rgb(139, 77, 19)
+}
